@@ -37,4 +37,4 @@ The SimulationSystem class manages the overall simulation, including the event q
 ## 5. Conclusion
 In conclusion, the Event Simulation System stands as a robust and flexible solution for the intricate task of managing and simulating diverse events. By judiciously integrating a linked list for the event queue and an AVL tree for efficient event scheduling, the system not only ensures the seamless processing of events but also contributes to the overall organization and optimization of event simulations. The utilization of a linked list allows for the orderly enqueuing and dequeuing of events, preserving the chronological order of their occurrence. This feature is pivotal in accurately mirroring real-world scenarios where events unfold in a temporally sequential manner.
 
-#Submitter to: Sir Usama Arshad Janjua, Lab Instructor, GIKI Topi, KPK, Pakistan
+## Submitted to: Sir Usama Arshad Janjua, Lab Instructor, GIKI Topi, KPK, Pakistan.
